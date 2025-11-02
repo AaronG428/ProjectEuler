@@ -1,2 +1,3 @@
 resources/*
-forbidden_problems/*
+*.code-workspace
+# forbidden_problems/*
